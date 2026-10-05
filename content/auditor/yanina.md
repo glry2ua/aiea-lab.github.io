@@ -1,9 +1,9 @@
 +++
-bio = ""
+bio = "Undegrad student pursuing Computer Science BS"
 date = "2026-09-24"
-id = ""
-interests = ["eVTOL", "AD", "ML"]
-name = ""
+id = "Yanina"
+interests = ["eVTOL", "AD", "ML", "research"]
+name = "Yanina Miller"
 portrait = "/portraits/yanina.jpg"
 short_bio = "Undegrad student pursuing Computer Science BS"
 short_name = "Yanina"
@@ -39,6 +39,5 @@ title = "Undergraduate"
     role = ""
 
 +++
-Put your bio here.Currently pursuing a B.S. in Computer Science at UC Santa Cruz with
-coursework in Machine Learning, Data Structures, and Computer Systems Design.
+Currently pursuing a B.S. in Computer Science at UC Santa Cruz with coursework in Machine Learning, Data Structures, and Computer Systems Design.
 
